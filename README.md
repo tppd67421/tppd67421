@@ -37,10 +37,22 @@
 	  <th></th>
 	</tr>
 	<tr>
-		<th>Shopno</th>
-		<th>HTML markup (SCSS, Webpack)</th>
-		<th><a href="https://github.com/tppd67421/shopno">Git</a></th>
-		<th><a target="_blank" href="https://tppd67421.github.io/shopno/">Demo</a></th>
+		<th>NASA APOD</th>
+		<th>Work with NASA API</th>
+		<th><a href="https://github.com/tppd67421/nasa-apod">Git</a></th>
+		<th><a target="_blank" href="https://tppd67421.github.io/nasa-apod/">Demo</a></th>
+	</tr>
+	<tr>
+		<th>neutronMail</th>
+		<th>HTML markup (SCSS, Webpack, Pixel Perfect)</th>
+		<th><a href="https://github.com/tppd67421/neutron-mail">Git</a></th>
+		<th><a target="_blank" href="https://tppd67421.github.io/neutron-mail/">Demo</a></th>
+	</tr>
+	<tr>
+		<th>Millisa</th>
+		<th>HTML markup (SASS, PHPMailer)</th>
+		<th><a href="https://github.com/tppd67421/millisa">Git</a></th>
+		<th><a target="_blank" href="https://tppd67421.github.io/millisa/">Demo</a></th>
 	</tr>
 </table>
 
