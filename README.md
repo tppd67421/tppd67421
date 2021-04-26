@@ -1,6 +1,6 @@
 # Hi, I'm Aleksei <img width="30" src="https://emojis.slackmojis.com/emojis/images/1613285697/12806/meow_attention.png?1613285697" alt="meow" />
 
-I'm a Front-end developer from Minsk, Belarus
+💻 I'm a Front-end developer from Minsk, Belarus
 
 🛠️ Languages and Tools:
 <br>
