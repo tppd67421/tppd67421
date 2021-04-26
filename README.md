@@ -3,7 +3,7 @@
 I'm a Front-end developer from Minsk, Belarus
 
 🛠️ Languages and Tools:
-<br><br>
+<br>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -37,12 +37,18 @@ I'm a Front-end developer from Minsk, Belarus
 	  <th></th>
 	</tr>
 	<tr>
-		<th>Name</th>
-		<th>Description</th>
-		<th>Git</th>
-		<th>Demo</th>
+		<th>Shopno</th>
+		<th>HTML markup (SCSS, Webpack)</th>
+		<th><a href="https://github.com/tppd67421/shopno">Git</a></th>
+		<th><a target="_blank" href="https://tppd67421.github.io/shopno/">Demo</a></th>
 	</tr>
 </table>
+
+📲 Reach me:
+<br>
+<a target="_blank" href="https://www.linkedin.com/in/aleksei-petrakov/"><img src="https://img.shields.io/badge/-Linkedin-black?style=flat-square&logo=linkedin"/></
+<a target="_blank" href="https://t.me/tppd67421"><img src="https://img.shields.io/badge/-Telegram-black?style=flat-square&logo=telegram"/></a>
+
 
 <!--
 **tppd67421/tppd67421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
