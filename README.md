@@ -1,6 +1,10 @@
 # Hi, I'm Aleksei <img width="30" src="https://emojis.slackmojis.com/emojis/images/1613285697/12806/meow_attention.png?1613285697" alt="meow" />
-
-💻 I'm a Front-end developer from Minsk, Belarus
+<!-- 💻 -->
+I'm a Front-end developer from Minsk, Belarus.
+<br>
+Stacks I have worked with: React/Redux.
+<br>
+I'm currently learning TypeScript, Jest and Enzyme.
 
 🛠️ Languages and Tools:
 <br>
@@ -60,6 +64,7 @@
 <br>
 <a target="_blank" href="https://www.linkedin.com/in/aleksei-petrakov/"><img src="https://img.shields.io/badge/-Linkedin-black?style=flat-square&logo=linkedin"/></a>
 <a target="_blank" href="https://t.me/tppd67421"><img src="https://img.shields.io/badge/-Telegram-black?style=flat-square&logo=telegram"/></a>
+<a target="_blank" href="mailto:tppd67421@gmail.com"><img src="https://img.shields.io/badge/-tppd67421@gmail.com-black?style=flat-square&logo=gmail"/></a>
 
 
 <!--
