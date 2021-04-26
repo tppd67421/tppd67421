@@ -3,7 +3,7 @@
 * Front-end developer from Minsk, Belarus
 * My current stack: React/Redux
 * I'm currently learning TypeScript, Jest and Enzyme
-* You can see some of my projects on <a href="https://tppd67421.github.io">my website</a>
+* You can see some of my projects on <a href="https://tppd67421.github.io/">my website</a>
 
 🛠️ Languages and Tools:
 <br>
