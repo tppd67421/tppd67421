@@ -2,13 +2,13 @@
 
 I'm a Front-end developer from Minsk, Belarus
 
-🛠️ Languages and Tools:
+<p>🛠️ Languages and Tools:<p>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
 
-📚 My projects:
+<p>📚 My projects:<p>
 <table>
   <tr>
 	  <th>Name</th>
