@@ -46,7 +46,7 @@ I'm a Front-end developer from Minsk, Belarus
 
 📲 Reach me:
 <br>
-<a target="_blank" href="https://www.linkedin.com/in/aleksei-petrakov/"><img src="https://img.shields.io/badge/-Linkedin-black?style=flat-square&logo=linkedin"/></
+<a target="_blank" href="https://www.linkedin.com/in/aleksei-petrakov/"><img src="https://img.shields.io/badge/-Linkedin-black?style=flat-square&logo=linkedin"/></a>
 <a target="_blank" href="https://t.me/tppd67421"><img src="https://img.shields.io/badge/-Telegram-black?style=flat-square&logo=telegram"/></a>
 
 
