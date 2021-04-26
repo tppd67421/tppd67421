@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi, I'm Aleksei <img width="30" src="https://emojis.slackmojis.com/emojis/images/1613285697/12806/meow_attention.png?1613285697" alt="meow" />
+
+I'm a Front-end developer from Minsk, Belarus. 
 
 <!--
 **tppd67421/tppd67421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
