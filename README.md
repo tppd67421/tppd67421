@@ -1,10 +1,9 @@
 # Hi, I'm Aleksei <img width="30" src="https://emojis.slackmojis.com/emojis/images/1613285697/12806/meow_attention.png?1613285697" alt="meow" />
-<!-- 💻 -->
-I'm a Front-end developer from Minsk, Belarus.
-<br>
-Stacks I have worked with: React/Redux.
-<br>
-I'm currently learning TypeScript, Jest and Enzyme.
+🔭 About me:
+* Front-end developer from Minsk, Belarus
+* My current stack: React/Redux
+* I'm currently learning TypeScript, Jest and Enzyme
+* You can see some of my projects on <a href="https://tppd67421.github.io">my website</a>
 
 🛠️ Languages and Tools:
 <br>
