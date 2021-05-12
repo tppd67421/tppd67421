@@ -6,7 +6,7 @@
 * You can see some of my projects on <a href="https://tppd67421.github.io/">my website</a>
 
 🛠️ Languages and Tools:
-<br>
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -60,7 +60,7 @@
 </table>
 
 📲 Reach me:
-<br>
+
 <a target="_blank" href="https://www.linkedin.com/in/aleksei-petrakov/"><img src="https://img.shields.io/badge/-Linkedin-black?style=flat-square&logo=linkedin"/></a>
 <a target="_blank" href="https://t.me/tppd67421"><img src="https://img.shields.io/badge/-Telegram-black?style=flat-square&logo=telegram"/></a>
 <a target="_blank" href="mailto:tppd67421@gmail.com"><img src="https://img.shields.io/badge/-tppd67421@gmail.com-black?style=flat-square&logo=gmail"/></a>
